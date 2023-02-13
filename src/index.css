@@ -1,0 +1,30 @@
+.button {
+    border: none;
+    padding: 2px;
+   /* margin: 4px 2px;*/
+    cursor: pointer;
+    width:20px;
+    height:20px;
+    border-radius:50%;
+    
+  }
+  .button1{
+   /* background-color: #7c2727;*/
+    background-color: #970C0C;
+  }
+  .button1:hover {
+    border: 3px solid black;
+  }
+  .button2{
+    /*background-color: #4d680e;*/
+    background-color: #737d5b;
+  }
+  .button2:hover {
+    border: 3px solid black;
+  }
+  .button3{
+    background-color: #630a8c;
+  }
+  .button3:hover {
+    border: 3px solid black;
+  }
